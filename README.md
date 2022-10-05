@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Igor
 
-[![Github](https://img.shields.io/github/followers/rickstaa?label=Follow&style=social)](https://github.com/rickstaa)
+[![Github](https://img.shields.io/github/followers/igorleonir?label=Follow&style=social)](https://github.com/igorleonir)
 
 Learning something every day
 
@@ -40,15 +40,9 @@ I'm currently working and studing Javascript, NodeJS, React, ReactNative and Lar
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-blue)
 ![MySQL](https://img.shields.io/badge/MySQL-green)
 
-<!-- Social button 1 -->
-<!-- Light Mode -->
-<a href="https://www.linkedin.com/in/igor-leonir-di-domenico-649967181#gh-light-mode-only">
-<img src="https://img.shields.io/badge/LinkedIn-3572A5?style=for-the-badge&logo=linkedin&logoColor=white#gh-light-mode-only" alt="Connect with me on linkedin" >
-</a>
-<!-- Dark Mode -->
-<a href="https://www.linkedin.com/in/igor-leonir-di-domenico-649967181#gh-dark-mode-only">
-<img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
-</a>
-<a href = "mailto:igorleonir"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
+<div>
+<a href = "mailto:igorleonir"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/igor-leonir-di-domenico-649967181/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 </div>
 
