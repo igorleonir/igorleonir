@@ -9,10 +9,10 @@ I'm currently working and studing Javascript, NodeJS, React, ReactNative and Lar
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-1mamlmwxm-igorleonir.vercel.app/api/top-langs/?username=rickstaa&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Rick Staa's Language stats" />
+<img height=200 src="https://github-readme-stats-1mamlmwxm-rickstaa.vercel.app/api/top-langs/?username=igorleonir&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Igor Leonir's Language stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=200 src="https://github-readme-stats-1mamlmwxm-igorleonir.vercel.app/api?username=rickstaa&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Rick Staa's Github stats" />
+<img height=200 src="https://github-readme-stats-1mamlmwxm-rickstaa.vercel.app/api?username=igorleonir&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Igor Leonir's Github stats" />
 </a>
 </div>
 
@@ -49,5 +49,6 @@ I'm currently working and studing Javascript, NodeJS, React, ReactNative and Lar
 <a href="https://www.linkedin.com/in/igor-leonir-di-domenico-649967181#gh-dark-mode-only">
 <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=0690FA#gh-dark-mode-only" alt="Connect with me on linkedin" >
 </a>
+<a href = "mailto:igorleonir"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>
 
